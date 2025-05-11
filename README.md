@@ -30,3 +30,4 @@ By doing so, we aim to provide a clear, data-driven overview of how countries in
 - **Visualization**: `matplotlib`, `seaborn`
 - **Utilities**: `re`, `math`, `json`, `warnings`
 
+blog post: https://medium.com/@tauapds/unlocking-global-insights-with-ai-4732fdd7924c
